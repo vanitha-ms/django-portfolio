@@ -1,0 +1,56 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Vanitha's Portfolio</title>
+    <link rel="stylesheet" href="{% static 'main/style.css' %}">
+</head>
+
+<body>
+
+<header class="header">
+
+    <h2>Vanitha's Portfolio</h2>
+
+    <nav class="navbar">
+        <a href="{% url 'home' %}">Home</a>
+        <a href="{% url 'about' %}">About</a>
+        <a href="{% url 'skills' %}">Skills</a>
+        <a href="{% url 'projects' %}">Projects</a>
+        <a href="{% url 'contact' %}">Contact Me</a>
+    </nav>
+
+</header>
+
+
+<section class="hero">
+
+    <h1>Hi, I'm Vanitha M S</h1>
+
+    <h2>Computer Science Engineer</h2>
+
+    <p>
+        A Computer Science Engineering graduate with a passion for
+        technology, eager to apply my programming skills, learn new
+        technologies, and contribute to real-world software projects.
+    </p>
+
+
+    <h2>Career Objective</h2>
+
+    <p>
+        To start my career as a software developer where I can improve
+        my technical skills, gain practical experience, and contribute
+        to the growth of the organization.
+    </p>
+
+
+    <a href="#" class="resume-btn">Download Resume</a>
+
+</section>
+
+</body>
+
+</html>
