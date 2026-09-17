@@ -81,7 +81,7 @@ Bapuji Institute of Engineering and Technology
 ![Portfolio Projects](projects.png)
 
 ### Django Admin
-![Django Admin](Django admin.png)
+![Django Admin](Django%20admin.png)
 
 ## Author
 
