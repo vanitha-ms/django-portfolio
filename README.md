@@ -1,26 +1,16 @@
 \# Vanitha M S - Portfolio Website
 
-
-
 \## About the Project
-
-
 
 This is my personal portfolio website developed to showcase my
 
 education, technical skills, projects, and contact information.
 
-
-
 The website is built using Django and SQLite with a simple and
 
 professional design.
 
-
-
 \## Technologies Used
-
-
 
 \- Python
 
@@ -34,11 +24,7 @@ professional design.
 
 \- Django Admin
 
-
-
 \## Features
-
-
 
 \- Home page
 
@@ -56,67 +42,50 @@ professional design.
 
 \- SQLite database for storing information
 
-
-
 \## Projects Included
 
-
-
 \### 1. Online Voting System
-
-
 
 A web-based voting system with voter registration, login,
 
 candidate details, and a voting interface.
 
-
-
 \*\*Technologies:\*\*
 
 HTML, CSS, JavaScript, Java, MySQL
 
-
-
 \### 2. Crop Market Price Prediction Using LLMs
-
-
 
 A team project developed to predict crop prices and provide
 
 agricultural guidance using NLP and AI technologies.
 
-
-
 \*\*Technologies:\*\*
 
 Python, Flask, DistilBERT, SQLite, Gemini AI, Google Translate
 
-
-
 \## Education
-
-
 
 \*\*B.E. in Computer Science and Engineering\*\*
 
-
-
 Bapuji Institute of Engineering and Technology
-
-
 
 \*\*CGPA:\*\* 8.71
 
+## Project Output
+
+### Home Page
+![Portfolio Home](portfolio-home.png)
+
+### Projects
+![Portfolio Projects](portfolio-projects.png)
+
+### Django Admin
+![Django Admin](django-admin.png)
+
+## Author
+
+Vanitha M S
 
 
-\## Author
-
-
-
-\*\*Vanitha M S\*\*
-
-
-
-Computer Science Engineer
 
