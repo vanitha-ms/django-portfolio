@@ -75,13 +75,13 @@ Bapuji Institute of Engineering and Technology
 ## Project Output
 
 ### Home Page
-![Portfolio Home](portfolio-home.png)
+![Portfolio Home](home.png)
 
 ### Projects
-![Portfolio Projects](portfolio-projects.png)
+![Portfolio Projects](projects.png)
 
 ### Django Admin
-![Django Admin](django-admin.png)
+![Django Admin](Django admin.png)
 
 ## Author
 
