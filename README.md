@@ -1,86 +1,50 @@
-\# Vanitha M S - Portfolio Website
+# Vanitha M S - Portfolio Website
 
-\## About the Project
+## Approach
 
-This is my personal portfolio website developed to showcase my
+* Developed the portfolio website using Django with a simple and beginner-friendly project structure.
+* Created separate Django components for handling pages, models, templates, and static files.
+* Used Django templates to display portfolio information dynamically.
+* Created database models for Skills, Projects, and Contact Messages**.
+* Used the Django Admin Panel to manage project and contact information.
+* Added a contact form to allow visitors to submit their name, email, and message.
+* Focused on creating a simple, clean, and responsive portfolio website.
 
-education, technical skills, projects, and contact information.
+## Tools and Technologies Used
 
-The website is built using Django and SQLite with a simple and
+* Python
+* Django
+* SQLite
+* HTML
+* CSS
+* Django Templates
+* Django Admin
+* VS Code
+* Git & GitHub
 
-professional design.
+## Testing Scenarios
 
-\## Technologies Used
+* Tested all navigation links between portfolio pages.
+* Tested the contact form by entering valid name, email, and message.
+* Tested form submission and verified that contact messages were stored in the database.
+* Tested the Django Admin Panel for viewing and managing stored data.
+* Tested the website with different screen sizes to check responsiveness.
+* Tested the project locally using the Django development server.
+* Checked for incorrect or missing page URLs and verified proper page loading.
 
-\- Python
+## Project Outcome
 
-\- Django
-
-\- HTML
-
-\- CSS
-
-\- SQLite
-
-\- Django Admin
-
-\## Features
-
-\- Home page
-
-\- About Me page
-
-\- Education details
-
-\- Skills section
-
-\- Projects section
-
-\- Contact Me form
-
-\- Django Admin for managing portfolio data
-
-\- SQLite database for storing information
-
-\## Projects Included
-
-\### 1. Online Voting System
-
-A web-based voting system with voter registration, login,
-
-candidate details, and a voting interface.
-
-\*\*Technologies:\*\*
-
-HTML, CSS, JavaScript, Java, MySQL
-
-\### 2. Crop Market Price Prediction Using LLMs
-
-A team project developed to predict crop prices and provide
-
-agricultural guidance using NLP and AI technologies.
-
-\*\*Technologies:\*\*
-
-Python, Flask, DistilBERT, SQLite, Gemini AI, Google Translate
-
-\## Education
-
-\*\*B.E. in Computer Science and Engineering\*\*
-
-Bapuji Institute of Engineering and Technology
-
-\*\*CGPA:\*\* 8.71
+Successfully developed and tested a functional Django portfolio website with dynamic content, database integration, an admin panel, and a contact form.
 
 ## Project Output
 
-### Home Page
+Home Page
 ![Portfolio Home](home.png)
 
-### Projects
+Projects
 ![Portfolio Projects](projects.png)
 
-### Django Admin
+Django Admin
 ![Django Admin](Django%20admin.png)
 
 ## Author
